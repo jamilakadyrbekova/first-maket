@@ -481,8 +481,3 @@ a{
 .footer__link:first-child{
     margin-top: 0; 
 }  
-.world{
-    text-align: center;
-    font-weight: 500;
-    font-size: 22px;
-}
